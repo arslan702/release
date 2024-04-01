@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Making() {
   return (
-    <div className="bg-[#000000]  mt-3 md:px-24 text-white pt-12 leading-none ">
+    <div className="bg-[#000000]  mt-3 md:px-32 text-white md:pt-16 leading-none  ">
       <div className="grid md:grid-cols-2 grid-cols-1 ">
         <div>
-          <h1 className="md:text-[64px] text-[32px] px-4 font-[600] ">
+          <h1 className="md:text-[62px] text-[32px] px-4 font-[600] ">
             Making music business{" "}
             <span className="text-[#5F2EEA] ">simpler</span>{" "}
           </h1>

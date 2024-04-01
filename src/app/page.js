@@ -16,7 +16,7 @@ import Why from "@/Components/Why";
 export default function Home() {
   return (
     <main className="">
-      <Navbar/>
+      {/* <Navbar/> */}
       <Banner/>
       <Reviews/>
       <Making/>
@@ -29,7 +29,7 @@ export default function Home() {
       <Why/>
       <Faq/>
       <Manage/>
-      <Footer/>
+      {/* <Footer/> */}
     </main>
   );
 }

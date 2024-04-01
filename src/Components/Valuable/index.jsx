@@ -3,7 +3,7 @@ import { FaCircleCheck } from 'react-icons/fa6'
 
 export default function Valuable() {
   return (
-    <div className='md:px-24 ' >
+    <div className='md:px-32 md:pt-10 ' >
       <br />
       <br />
       <div className='grid md:grid-cols-2  grid-cols-1 ' >

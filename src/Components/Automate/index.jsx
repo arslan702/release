@@ -10,7 +10,7 @@ export default function Automate() {
 
   
   return (
-    <div className='md:px-24 mt-10 mb-5  ' >
+    <div className='md:px-32 mt-10 mb-5  ' >
       <div className='grid md:grid-cols-2 grid-cols-1 ' >
       <div className="px-4 md:pt-14 " >
           <p className="text-[#5F2EEA] mt-3 ">AUTOMATE – RELEESE AI</p>

@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Faq() {
   return (
-    <div className='bg-[black] md:px-24 pt-10 mt-3 py-3 text-white px-3 ' >
-<p className='md:text-[64px] font-[600] text-[32px] ' >Frequently <span className='text-[#5F2EEA] ' >asked</span>  questions</p>
+    <div className='bg-[black] md:px-36 pt-10 mt-3 md:py-12 py-3 text-white px-3 ' >
+<p className='md:text-[56px] font-[700] text-[32px] ' >Frequently <span className='text-[#5F2EEA] ' >asked</span>  questions</p>
   <p className='pt-1 text-[22px] ' >Got questions about Releese? Find your answers here.</p>
    <br />
    <hr />
